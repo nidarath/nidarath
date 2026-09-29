@@ -97,13 +97,6 @@ A full-stack donor and volunteer management platform built through **UT Dallas E
 | **1st Place / 1,000+ participants** | Dev Season of Code Hackathon — Eco Quest |
 | **2nd Place** | HackEarth — GreenGain |
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/nidarath/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://nida-porfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+[nida-porfolio.vercel.app](https://nida-porfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nidarath/) · [nidarzx@gmail.com](mailto:nidarzx@gmail.com)
+<div>
