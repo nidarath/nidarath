@@ -98,5 +98,7 @@ A full-stack donor and volunteer management platform built through **UT Dallas E
 | **2nd Place** | HackEarth — GreenGain |
 
 <div align="center">
-[nida-porfolio.vercel.app](https://nida-porfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nidarath/) · [nidarzx@gmail.com](mailto:nidarzx@gmail.com)
+
+  [nida-porfolio.vercel.app](https://nida-porfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nidarath/) · [nidarzx@gmail.com](mailto:nidarzx@gmail.com)
+  
 <div>
